@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroMoney.Library", "EuroMoney.Library\EuroMoney.Library.csproj", "{14FB9B86-D564-41B7-8E56-D3C04F998087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroMoney.TestHarness", "EuroMoney.TestHarness\EuroMoney.TestHarness.csproj", "{3219C181-14F4-421C-9742-1561EF123D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FB9B86-D564-41B7-8E56-D3C04F998087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FB9B86-D564-41B7-8E56-D3C04F998087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FB9B86-D564-41B7-8E56-D3C04F998087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FB9B86-D564-41B7-8E56-D3C04F998087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3219C181-14F4-421C-9742-1561EF123D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3219C181-14F4-421C-9742-1561EF123D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3219C181-14F4-421C-9742-1561EF123D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3219C181-14F4-421C-9742-1561EF123D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE7D2EF-1F46-48C1-AC29-52AFFA13C01F}
+	EndGlobalSection
+EndGlobal
